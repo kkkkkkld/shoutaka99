@@ -9,8 +9,8 @@ let clickCount = 0;  // 记录点击 No 的次数
 const noTexts = [
     "？Are you serious…", 
     "Maybe think again,pwease？", 
-    "Noooo,you can't pick this one！ ", 
     "I'll be sooo sad…", 
+    "No way:(", 
     "No way:("
 ];
 
